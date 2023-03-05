@@ -1,2 +1,2 @@
-# dcq
-Distributed Composite Quantization - AAAI 2018 (Oral)
+# Distributed Composite Quantization
+Published at AAAI 2018 (Oral)
